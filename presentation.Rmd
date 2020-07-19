@@ -1,7 +1,7 @@
 ---
 title: "Course Project - Shiny Application and Reproducible Pitch"
-author: "Rufo I. Marasigan Jr."
-date: "February 6, 2019"
+author: "Dimas Ananda."
+date: "July 19, 2020"
 output: ioslides_presentation
 ---
 
